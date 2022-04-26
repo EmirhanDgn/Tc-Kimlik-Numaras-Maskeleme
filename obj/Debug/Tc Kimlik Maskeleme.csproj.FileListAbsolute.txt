@@ -1,0 +1,11 @@
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\Tc Kimlik Maskeleme\Tc Kimlik Maskeleme\bin\Debug\Tc Kimlik Maskeleme.exe.config
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\Tc Kimlik Maskeleme\Tc Kimlik Maskeleme\bin\Debug\Tc Kimlik Maskeleme.exe
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\Tc Kimlik Maskeleme\Tc Kimlik Maskeleme\bin\Debug\Tc Kimlik Maskeleme.pdb
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\Tc Kimlik Maskeleme\Tc Kimlik Maskeleme\obj\Debug\Tc Kimlik Maskeleme.csproj.AssemblyReference.cache
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\Tc Kimlik Maskeleme\Tc Kimlik Maskeleme\obj\Debug\Tc Kimlik Maskeleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\Tc Kimlik Maskeleme\Tc Kimlik Maskeleme\obj\Debug\Tc_Kimlik_Maskeleme.Properties.Resources.resources
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\Tc Kimlik Maskeleme\Tc Kimlik Maskeleme\obj\Debug\Tc Kimlik Maskeleme.csproj.GenerateResource.cache
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\Tc Kimlik Maskeleme\Tc Kimlik Maskeleme\obj\Debug\Tc Kimlik Maskeleme.csproj.CoreCompileInputs.cache
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\Tc Kimlik Maskeleme\Tc Kimlik Maskeleme\obj\Debug\Tc Kimlik Maskeleme.exe
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\Tc Kimlik Maskeleme\Tc Kimlik Maskeleme\obj\Debug\Tc Kimlik Maskeleme.pdb
+C:\Users\emirhandogan.FP-BIDB-14\source\repos\Tc Kimlik Maskeleme\Tc Kimlik Maskeleme\obj\Debug\Tc_Kimlik_Maskeleme.TcMaskeleme.resources
